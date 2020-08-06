@@ -33,9 +33,10 @@ JavaScript         30 mins         ██░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-**📕 Latest dev.to posts [Saimanoj Seshagiri](https://medium.com/@saimanojseshagiri3)**
+**📕 Latest Medium posts [Saimanoj Seshagiri](https://medium.com/@saimanojseshagiri3)**
 <!-- BLOG-POST-LIST:START -->
 - [What is the best site for learning computer programming!](https://medium.com/@saimanojseshagiri3/what-is-the-best-site-for-learning-computer-programming-330078b46afa)
+- [How to get your financial aid on Coursera !!](https://medium.com/@saimanojseshagiri3/how-to-get-your-first-financial-aid-on-coursera-e26ba3ee2e6c)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoj1712&layout=compact&hide=html" alt="saimanoj1712" />
