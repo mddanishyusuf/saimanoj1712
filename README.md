@@ -42,4 +42,4 @@ JavaScript         30 mins         ██░░░░░░░░░░░░░
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoj1712&layout=compact&hide=html" alt="saimanoj1712" />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=saimanoj1712&show_icons=true" alt="saimanoj1712" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimanoj1712&show_icons=true" alt="saimanoj1712" />
