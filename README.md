@@ -15,23 +15,13 @@ Hi, I'm Saimanoj Seshagiri, a Front End Developer 🚀 from India, currently, I'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanoj1712" alt="saimanoj1712" /> </p>
 
-- 🔭 I’m currently working on **Html, css, NodeJs, React, Python;**
-
-- 🌱 I’m currently learning **React,Unity.**
-
-- 👯 I’m looking to collaborate on **kick ass products**
-
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning ML and React
+- 💬 Ask me about anything related to Data Structures/Computer Networking/Python/Cloud
 - 🤔 I’m looking for help with **Intership,Job**
+- 📫 How to reach me: **saimanojseshagiri3@gmail.com**
+- ⚡ Fun fact: I :heart: :dog:s
 
-- 👨‍💻 All of my projects are available at [Saimanoj Seshagiri](https://saimanoj1712.github.io/)
-
-- 📝 I regulary write articles on [Saimanoj Seshagiri](https://saimanoj1712.github.io/)
-
-- 💬 Ask me about **I am happy to help;**
-
-- 📫 How to reach me **saimanojseshagiri3@gmail.com**
-
-- ⚡ Fun fact **Chai over Coffee ☕️**
 
 **📕 Latest dev.to posts [Saimanoj Seshagiri](https://medium.com/@saimanojseshagiri3)**
 <!-- BLOG-POST-LIST:START -->
