@@ -39,7 +39,6 @@ JavaScript         30 mins         ██░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoj1712&layout=compact&hide=html" alt="saimanoj1712" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoj1712)](https://github.com/saimanoj1712/github-readme-stats)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=saimanoj1712&show_icons=true" alt="saimanoj1712" />
